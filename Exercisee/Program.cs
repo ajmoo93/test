@@ -11,6 +11,7 @@ namespace Exercisee
         static void Main(string[] args)
         {
             Console.WriteLine();
+
         }
     }
 }
